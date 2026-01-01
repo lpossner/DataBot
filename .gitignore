@@ -206,17 +206,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# GGUF Models
-.gguf
-
-# Parquet Files
+# Parquet files
 .parquet
 
-# Database Files
+# Database files
 .db
 
-# Autogluon Models
+# Autogluon models
 AutogluonModels/
-
-# Llama Cpp Models
-LlamaCppModels
